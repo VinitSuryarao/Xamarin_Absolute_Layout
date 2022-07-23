@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Absolute_Layout.MainPage">
+    
+    <ContentPage.Content >
+        <AbsoluteLayout x:Name="ParentLayout" BackgroundColor="White">
+            <BoxView BackgroundColor="SkyBlue" AbsoluteLayout.LayoutBounds="0,0,1,150" AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+            <BoxView BackgroundColor="White" AbsoluteLayout.LayoutBounds="0.5,95,100,100" AbsoluteLayout.LayoutFlags="XProportional"/>
+            <BoxView BackgroundColor="LightGray" AbsoluteLayout.LayoutBounds="0.5,95,90,90" AbsoluteLayout.LayoutFlags="XProportional"/>
+            <Label Text="Username" AbsoluteLayout.LayoutBounds="0.5,200,1,40" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional"
+                   TextColor="Black" FontSize="Medium" HorizontalTextAlignment="Center"/>
+
+            <AbsoluteLayout AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" Padding="5">
+                <AbsoluteLayout x:Name="iconlayout" BackgroundColor="#9eacc1"
+                     AbsoluteLayout.LayoutBounds=".5,235,1,48" AbsoluteLayout.LayoutFlags="XProportional,WidthProportional">
+                    <BoxView BackgroundColor="White" AbsoluteLayout.LayoutBounds="60,5,30,30"/>
+                    <BoxView BackgroundColor="White" AbsoluteLayout.LayoutBounds="100,5,30,30"/>
+                    <BoxView BackgroundColor="white" AbsoluteLayout.LayoutBounds="140,5,30,30"/>
+                    <BoxView BackgroundColor="white" AbsoluteLayout.LayoutBounds="180,5,30,30"/>
+                    <BoxView BackgroundColor="White" AbsoluteLayout.LayoutBounds="220,5,30,30"/>
+                </AbsoluteLayout>
+            </AbsoluteLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.deps.json
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.dll
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\ref\Absolute_Layout.dll
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\bin\Debug\netstandard2.0\Absolute_Layout.pdb
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.dll
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\ref\Absolute_Layout.dll
+E:\Study\Code\Xamarin\Absolute_Layout\Absolute_Layout\obj\Debug\netstandard2.0\Absolute_Layout.pdb
